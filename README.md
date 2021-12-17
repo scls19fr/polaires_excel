@@ -1,4 +1,4 @@
-# Polaires Excel / Excel polar
+# Polaires Excel / Excel polars
 
 Fichier Excel de modélisation de polaires des vitesses (planeur)
 
